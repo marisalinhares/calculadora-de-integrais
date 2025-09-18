@@ -25,7 +25,7 @@ Elas são, respectivamente, funções dos tipos:
 - Biblioteca padrão `math`
 
 ## Vídeo mostrando a execução
-https://youtu.be/_ZbgbJotoUE?si=svgbWcsvqwiSGf2_
+https://youtu.be/hKcFwUDpHtI?si=5ixNcSVd7ShhpF9e
 
 ## O que é a Soma de Riemann?
 A **soma de Riemann** é um método numérico usado para aproximar o valor de uma integral definida.  
